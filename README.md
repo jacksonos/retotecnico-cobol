@@ -45,5 +45,3 @@ El programa sigue los siguientes pasos:
 |-- 📜 README.md            # Documentación del proyecto
 ```
 
-Este README proporciona toda la información necesaria para comprender y ejecutar el programa correctamente. 🚀
-
